@@ -13,7 +13,7 @@
     position: relative;
     left: 50%;
     top: 200px;
-    margin-left: -5px;
+    margin-left: -10    px;
 }
 .yuan{
     position: absolute;
@@ -25,5 +25,17 @@
     background-color: red;
 }
 .eye{
-
+    border: 1px solid red;
+    height: 64px;
+    width: 64px;
+    position: absolute;
+    left: 50%;
+    top: 100px;
+    margin-left: -32px;
+}
+.eye.left{
+    transform: translateX(-100px);
+}
+.eye.right{
+    transform: translateX(100px);
 }
