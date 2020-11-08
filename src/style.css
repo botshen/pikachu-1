@@ -144,6 +144,19 @@ body {
     background: #ffe600;
 }
 
+.mouth .up::before {
+    content: '';
+    display: block;
+    width: 93px;
+    height: 5px;
+    position: absolute;
+    bottom: -16px;
+    background: #ffe600;
+    transform: rotate(-15deg);
+    z-index: 15;
+    margin-left: -2px;
+}
+
 .mouth .up .lip.left::before {
     right: -6px;
 }

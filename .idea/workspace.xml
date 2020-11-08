@@ -61,7 +61,8 @@
       <workItem from="1604756041664" duration="481000" />
       <workItem from="1604756547629" duration="5713000" />
       <workItem from="1604815345602" duration="183000" />
-      <workItem from="1604815922766" duration="33000" />
+      <workItem from="1604815922766" duration="184000" />
+      <workItem from="1604848595867" duration="1257000" />
     </task>
     <servers />
   </component>
@@ -77,6 +78,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="704" y="320" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604485112203" />
+    <state width="1685" height="236" key="GridCell.Tab.0.bottom" timestamp="1604816107502">
+      <screen x="1920" y="-359" width="1707" height="920" />
+    </state>
+    <state width="1685" height="236" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.-359.1707.920@1920.-359.1707.920" timestamp="1604816107502" />
+    <state width="1685" height="236" key="GridCell.Tab.0.center" timestamp="1604816107501">
+      <screen x="1920" y="-359" width="1707" height="920" />
+    </state>
+    <state width="1685" height="236" key="GridCell.Tab.0.center/0.0.1280.680/1920.-359.1707.920@1920.-359.1707.920" timestamp="1604816107501" />
+    <state width="1685" height="236" key="GridCell.Tab.0.left" timestamp="1604816107501">
+      <screen x="1920" y="-359" width="1707" height="920" />
+    </state>
+    <state width="1685" height="236" key="GridCell.Tab.0.left/0.0.1280.680/1920.-359.1707.920@1920.-359.1707.920" timestamp="1604816107501" />
+    <state width="1685" height="236" key="GridCell.Tab.0.right" timestamp="1604816107501">
+      <screen x="1920" y="-359" width="1707" height="920" />
+    </state>
+    <state width="1685" height="236" key="GridCell.Tab.0.right/0.0.1280.680/1920.-359.1707.920@1920.-359.1707.920" timestamp="1604816107501" />
     <state x="2215" y="-234" key="SettingsEditor" timestamp="1604797794330">
       <screen x="1920" y="-359" width="1707" height="920" />
     </state>
