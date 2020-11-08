@@ -19,6 +19,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/style.css" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="ProjectId" id="1jojBxLGklbabH3nFDs5XIk1iRV" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -28,10 +31,16 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/images" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\bot\Desktop\皮卡丘\pikachu-1\src\images" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -44,6 +53,15 @@
       <workItem from="1604477208910" duration="1775000" />
       <workItem from="1604483553778" duration="1001000" />
       <workItem from="1604485064326" duration="2244000" />
+      <workItem from="1604675929289" duration="3000" />
+      <workItem from="1604676850494" duration="118000" />
+      <workItem from="1604731841304" duration="1088000" />
+      <workItem from="1604733610698" duration="6662000" />
+      <workItem from="1604755719968" duration="290000" />
+      <workItem from="1604756041664" duration="481000" />
+      <workItem from="1604756547629" duration="5713000" />
+      <workItem from="1604815345602" duration="183000" />
+      <workItem from="1604815922766" duration="33000" />
     </task>
     <servers />
   </component>
@@ -51,13 +69,18 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="2503" y="-78" key="#Notifications" timestamp="1604815440350">
+      <screen x="1920" y="-359" width="1707" height="920" />
+    </state>
+    <state x="2503" y="-78" key="#Notifications/0.0.1280.680/1920.-359.1707.920@1920.-359.1707.920" timestamp="1604815440350" />
     <state x="704" y="320" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604485112203">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="704" y="320" key="#com.intellij.fileTypes.FileTypeChooser/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604485112203" />
-    <state x="2381" y="170" key="SettingsEditor" timestamp="1604483706547">
-      <screen x="1920" y="0" width="1920" height="1080" />
+    <state x="2215" y="-234" key="SettingsEditor" timestamp="1604797794330">
+      <screen x="1920" y="-359" width="1707" height="920" />
     </state>
+    <state x="2215" y="-234" key="SettingsEditor/0.0.1280.680/1920.-359.1707.920@1920.-359.1707.920" timestamp="1604797794330" />
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1080@0.0.1920.1040" timestamp="1604483571926" />
     <state x="2381" y="170" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1080@1920.0.1920.1080" timestamp="1604483706547" />
   </component>
